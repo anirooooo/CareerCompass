@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import LandingPage from './userInput/LandingPage';
 import React from 'react';
 import QuizApp from './question/QuizApp';
+import NextResult from './question/NextResult';
 // import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // import Home from './components/Home';
@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Routes>
         <Route exact path="/" element={<QuizApp />}/>
-        <Route exact path="/quiz" element={<LandingPage />}/>
+        <Route exact path="/final" element={<NextResult />}/>
       </Routes>
     </Router>
   );
