@@ -25,3 +25,7 @@ Find Yo Passion is licensed under the MIT License. See the LICENSE file for more
 
 # Acknowledgements
 Special thanks to the developers and contributors of the libraries and frameworks used in this project, as well as the open-source community for their invaluable contributions to the field of data science and machine learning.
+
+# Deployment
+The webapp was deployed using Google Apps Scripts and can be accessed with the link given below.
+https://script.google.com/macros/s/AKfycbw9DoxsS6EUrRvJzhlucua7Cs9ZzV_OtDc9aw7CsM5CeDNHLaehH9t_yQ8r8jR9QPJbUA/exec 
