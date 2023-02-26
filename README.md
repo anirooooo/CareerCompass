@@ -1,4 +1,4 @@
-#Find Yo Passion
+# Find Yo Passion
 #Find Yo Passion is an interactive web application designed to help users identify potential career paths based on their interests and preferences. The application consists of a landing page with a "Get Started" button, which takes the user to an interactive questionnaire that asks 5 questions and provides 4 multiple-choice answers for each question.
 
 After the user has completed the questionnaire, the application processes the user's answers and recommends 3 potential career paths based on the options that the user selected. Once the user selects a career path, an AI-based model is run to suggest the top 2 books to read, 2 top colleges to consider applying to, and 2 top TEDX talks to watch that are relevant to the chosen career path.
