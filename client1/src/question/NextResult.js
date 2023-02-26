@@ -13,7 +13,9 @@ const NextResult = () => {
           </h2>
 
   </header>
-  <div className='profile-card' style={{padding:'10px', backgroundColor:"whitesmoke",color:"black", overflowY:"scroll",float:"right"}}>{state}</div>
+  <div className='' style={{padding:'10px', backgroundColor:"whitesmoke",color:"black", overflowY:"scroll",float:"right"}}>
+    <div dangerouslySetInnerHTML={{ __html: state }} />
+  </div>
 </aside>
   )
 }

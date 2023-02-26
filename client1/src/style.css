@@ -127,13 +127,13 @@
   
   .results-container {
     width: 100%;
-    margin: 0 auto;
+    margin: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     height: 100%;
-    font-size: 1.75em;
+    font-size: 1.25em;
     line-height: 1.75em;
     animation: slide-in .4s ease;
   }
