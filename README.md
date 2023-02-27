@@ -22,6 +22,7 @@ Contributions to Find Yo Passion are welcome and encouraged! If you would like t
 
 # License
 Find Yo Passion is licensed under the MIT License. See the LICENSE file for more information.
+![image](https://user-images.githubusercontent.com/21274265/221446818-584bf450-87bc-4263-a9e7-c52bfef86d61.png)
 
 # Acknowledgements
 Special thanks to the developers and contributors of the libraries and frameworks used in this project, as well as the open-source community for their invaluable contributions to the field of data science and machine learning.
