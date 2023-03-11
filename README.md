@@ -1,4 +1,4 @@
-# Find Yo Passion
+#Find Yo Passion
 
 Find Yo Passion is an interactive web application designed to help users identify potential career paths based on their interests and preferences. The application consists of a landing page with a "Get Started" button, which takes the user to an interactive questionnaire that asks 5 questions and provides 4 multiple-choice answers for each question.
 
