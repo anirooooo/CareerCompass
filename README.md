@@ -10,7 +10,7 @@ To use Find Yo Passion, simply navigate to the landing page and click the "Get S
 To explore a career path further, simply select one of the recommended paths and the application will provide you with the top 2 books to read, 2 top colleges to consider applying to, and 2 top TEDX talks to watch that are relevant to the chosen career path.
 
 # Prerequisites
-Find Yo Passion is a web-based application that requires an internet connection and a modern web browser.
+Find Yo Passion is a web based application that requires an internet connection and a modern web browser.
 
 # Built With
 HTML/CSS/JavaScript
